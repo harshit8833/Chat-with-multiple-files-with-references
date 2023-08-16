@@ -277,7 +277,7 @@ def main():
     st.write(
     f"""
     <div style="display: flex; align-items: center; margin-left: 0;">
-        <h6 style="display: inline-block;">This application answers questions based on the content of uploaded PDF or TXT documents, providing both the answer and source references.</h6>
+        <h6 style="display: inline-block;">This application answers questions based on the content of uploaded PDF, TXT, CSV, HTML, MD, DOC, JSON documents, providing both the answer and source references.</h6>
     </div>
     """,
     unsafe_allow_html=True,
