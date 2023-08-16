@@ -147,7 +147,7 @@ def main():
         bottom: 0;
         right: 5px;
         padding: 0px;
-        text-align: right;
+        text-align: left;
     ">
         <p><a href='mailto:harshit09795@gmail.com'>Contact</a></p>
     </div>
