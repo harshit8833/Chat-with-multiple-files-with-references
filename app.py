@@ -479,6 +479,8 @@ def main():
                         for idx, page_text in enumerate(all_pages):  # Note: all_pages is now a list of page texts
                             if source_chunk in page_text:
                                 st.write(f"Reference: Page NO. {idx + 1}")
+                                st.write("")
+                                st.write("")
                                 break
 
                 st.session_state.cb = cb
